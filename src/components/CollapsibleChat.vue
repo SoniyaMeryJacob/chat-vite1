@@ -134,7 +134,7 @@ export default {
 @media screen and (max-width: 768px) {
   .chat-panel {
     width: 90%; /* Use 90% width on smaller screens */
-    height: 50vh; /* Adjust height */
+    height: 60vh; /* Adjust height */
     bottom: 90px; /* Leave space for chat tabs */
   }
 
